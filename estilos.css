@@ -248,4 +248,8 @@ footer{
 		padding:15px;
 	}
 	
+	.soc{
+		display:flex;
+		justify-content: center
+	}
 }
